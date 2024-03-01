@@ -1,0 +1,5 @@
+migrations/
+venv
+__pycache__/
+ routers/__pycache__/
+.idea/
